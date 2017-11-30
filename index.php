@@ -8,7 +8,7 @@ $app->config('debug', true);
 
 $app->get('/', function() {
     
-	$sql = new Hcode\DB\Sql();
+	$sql = new \Hcode\DB\Sql();
 
 	$result = $sql->select("select * from tb_users");
 
