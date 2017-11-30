@@ -3,7 +3,7 @@
     "minimum-stability": "dev",
     "type": "library",
     "description": "Classes PHP",
-    "homepage": "https://github.com/hcodebr/php-classes",
+    "homepage": "https://github.com/cleomarbrdias/php-classes",
     "authors": [
         {
             "name": "Cleomar Dias",
