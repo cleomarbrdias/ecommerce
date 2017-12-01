@@ -24,7 +24,7 @@
         "suggest": {
             "league/oauth2-google": "Needed for Google XOAUTH2 authentication"
         },
-        "time": "2017-01-09 09:33:47",
+        "time": "2017-01-09T09:33:47+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -79,7 +79,7 @@
         "require": {
             "php": ">=5.3.0"
         },
-        "time": "2012-09-09 14:54:09",
+        "time": "2012-09-09T14:54:09+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -121,7 +121,7 @@
             "reference": "5bfdf4602b8adb0e80b222fa29ac559aa9c06abf",
             "shasum": ""
         },
-        "time": "2012-12-24 05:24:32",
+        "time": "2012-12-24T05:24:32+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {

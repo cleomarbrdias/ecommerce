@@ -1,13 +1,13 @@
 {
-    "name": "hcodebr/php-classes",
+    "name": "cleomarbrdias/php-classes",
     "minimum-stability": "dev",
     "type": "library",
     "description": "Classes PHP",
     "homepage": "https://github.com/hcodebr/php-classes",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "Cleomar Dias",
+            "email": "cleomarbr@gmail.com"
         }
     ],
     "require": {
